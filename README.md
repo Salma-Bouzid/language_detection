@@ -1,6 +1,10 @@
 # language_detection
 
-## Detect 21 languages of the following corpus : http://www.statmt.org/europarl/
+## Detect 21 languages of the European Parliament Proceedings Parallel Corpus 1996-2011; 
+
+ Download raw data : http://www.statmt.org/europarl/
+ 
+ Test on this data : http://www.statmt.org/europarl/
 
 The main challenges of this task is:
 
