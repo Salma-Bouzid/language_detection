@@ -12,7 +12,7 @@ The main considerations in this task are:
 
 2.Designing sets with balanced classes. 
 
-3.Using classical Natural Language Processing methods that allow you to get fast,cheap and very good results. 
+3.Using classical Natural Language Processing methods for fast,cheap and good results. 
 
 First, check how the train, validation and test sets where built and preprocessed [here](https://github.com/Salma-Bouzid/language_detection/blob/master/Build_dataset.ipynb).
 
