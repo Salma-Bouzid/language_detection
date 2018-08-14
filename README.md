@@ -6,11 +6,11 @@
  
  Test on this data : http://www.statmt.org/europarl/
 
-The main challenges of this task is:
+The main considerations in this task are:
 
 1.How to avoid loading the entire dataset in order to create a training and validation files. 
 
-2.Design sets with balanced classes. 
+2.Designing sets with balanced classes. 
 
-3.Use classical Natural Language Processing methods that allow you to get fast,cheap and very good results. 
+3.Using classical Natural Language Processing methods that allow you to get fast,cheap and very good results. 
 
