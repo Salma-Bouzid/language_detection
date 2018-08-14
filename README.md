@@ -16,5 +16,5 @@ The main considerations in this task are:
 
 First, check how the train, validation and test sets where built and preprocessed [here](https://github.com/Salma-Bouzid/language_detection/blob/master/Build_dataset.ipynb).
 
-Second, check how we trained our Logistic regression model without running into memory erros on a Macbook Air [here](https://github.com/Salma-Bouzid/language_detection/blob/master/Train.ipynb).
+Second, check how we trained our Logistic regression model without running into memory errors on a Macbook Air [here](https://github.com/Salma-Bouzid/language_detection/blob/master/Train.ipynb).
 
