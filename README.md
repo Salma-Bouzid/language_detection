@@ -1,6 +1,6 @@
 # language_detection
 
-## Detect 21 languages of the European Parliament Proceedings Parallel Corpus 1996-2011; 
+## Detect 21 languages of the European Parliament Proceedings Parallel Corpus 1996-2011
 
  Download raw data : http://www.statmt.org/europarl/
  
