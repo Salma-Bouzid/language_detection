@@ -4,7 +4,6 @@
 
  Download raw data : http://www.statmt.org/europarl/
  
- Test on this data : http://www.statmt.org/europarl/
 
 The main considerations in this task are:
 
